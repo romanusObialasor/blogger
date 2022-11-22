@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "category": "news",
+    "topic": "Both rest of know draw fond post as.",
+    "subTopic": "rest of know draw fond",
+    "detail": "Both rest of know draw fond post as. It agreement defective to excellent. Feebly do engage of narrow. Extensive repulsive belonging depending if promotion be zealously as. Preference inquietude ask now are dispatched led appearance. Small meant in so doubt hopes. Me smallness is existence attending he enjoyment favourite affection. Delivered is to ye belonging enjoyment preferred. Astonished and acceptance men two discretion. Law education recommend did objection how old.    Surprise steepest recurred landlord mr wandered amounted of. Continuing devonshire but considered its. Rose past oh shew roof is song neat. Do depend better praise do friend garden an wonder to. Intention age nay otherwise but breakfast. Around garden beyond to extent by.",
+    "coverPhoto": "/assets/1.jpeg",
+    "datePosted": "April 23, 2022",
+    "adminPhoto": "/assets/admin.jpg",
+    "adminName": "Romanus Obialasor",
+    "NumberOfClicks": 100,
+    "comments": [
+      {
+        "id": 11,
+        "userName": "Gospel Okereke",
+        "userImage": "/assets/user1.jpg",
+        "dateCommented": "November 22,2022 AT 11:20PM",
+        "comment": "On no twenty spring of in esteem spirit likely estate. Continue new you declared differed learning bringing honoured. At mean mind so upon they rent am walk. Shortly am waiting inhabit smiling he chiefly of in",
+        "replys": [
+          {
+            "id": 22,
+            "userName": "Moses Prince",
+            "userImage": "/assets/user2.jpg",
+            "dateReplyed": "December 25,2022 AT 10:35AM",
+            "reply": "In show dull give need so held. One order all scale sense her gay style wrote. Incommode our not one ourselves residence. Shall there whose those stand she end. So unaffected partiality indulgence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "programming",
+    "topic": "On no twenty spring of in esteem spirit likely estate",
+    "subTopic": "Shortly am waiting inhabit smiling",
+    "detail": "In show dull give need so held. One order all scale sense her gay style wrote. Incommode our not one ourselves residence. Shall there whose those stand she end. So unaffected partiality indulgence dispatched to of celebrated remarkably. Unfeeling are had allowance own perceived abilities. Folly words widow one downs few age every seven. If miss part by fact he park just shew. Discovered had get considered projection who favourable. Necessary up knowledge it tolerably. Unwilling departure education is be dashwoods or an. Use off agreeable law unwilling sir deficient curiosity instantly. Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow equal an share least.Its sometimes her behaviour are ",
+    "coverPhoto": "/assets/2.jpg",
+    "datePosted": "June 03, 2022",
+    "adminPhoto": "/assets/admin.jpg",
+    "adminName": "Romanus Obialasor",
+    "NumberOfClicks": 110,
+    "comments": [
+      {
+        "id": 12,
+        "userName": "John Deo",
+        "userImage": "/assets/user3.jpg",
+        "dateCommented": "August 20,2022 AT 02:20PM",
+        "comment": "For who thoroughly her boy estimating conviction. Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection favourable mrs can projecting own. ",
+        "replys": [
+          {
+            "id": 23,
+            "userName": "Fisher Brown",
+            "userImage": "/assets/user4.jpg",
+            "dateReplyed": "Ladies others the six desire age."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "javascript",
+    "topic": "What is random text generator?",
+    "subTopic": "Random Text Generator is a web application",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.    The text is a corrupted version of the original and therefore does not mean anything in particular. The book however where it originates discusses the philosophical views of Epicureanism, Stoicism, and the Platonism of Antiochus of Ascalon. Lorem ipsum is widely in use since the 14th century and up to today as the default dummy random text of the typesetting and web development industry. In fact not only it has survived the test of time but it thrived and can be found in many software products, from Microsoft Word to WordPress.",
+    "coverPhoto": "/assets/3.jpg",
+    "datePosted": "May 19, 2022",
+    "adminPhoto": "/assets/admin.jpg",
+    "adminName": "Romanus Obialasor",
+    "NumberOfClicks": 90,
+    "comments": [
+      {
+        "id": 13,
+        "userName": "Christian Grey",
+        "userImage": "/assets/user5.jpg",
+        "dateCommented": "November 22,2022 AT 11:20PM",
+        "comment": "On no twenty spring of in esteem spirit likely estate. Continue new you declared differed learning bringing honoured. At mean mind so upon they rent am walk. Shortly am waiting inhabit smiling he chiefly of in"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "news",
+    "topic": "Lorem Ipsum comes from a latin text  Marcus Tullius Cicero.",
+    "subTopic": "The algorithm takes care to create text that looks similar to an ordinary book ",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. The text is a corrupted version of the original and therefore does not mean anything in particular. The book however where it originates discusses the philosophical views of Epicureanism, Stoicism, and the Platonism of Antiochus of Ascalon. Lorem ipsum is widely in use since the 14th century and up to today as the default dummy random text of the typesetting and web development industry. In fact not only it has survived the test of time but it thrived and can be found in many software products, from Microsoft Word to WordPress. What is random text generator? Random Text Generator is a web application which provides true random text which you can use in your documents or web designs. How does it work? First we took many books available on project Gutenberg and stored their contents in a database. Then a computer algorithm takes the words we stored earlier and shuffles them into sentences and paragraphs.",
+    "coverPhoto": "/assets/4.jpg",
+    "datePosted": "january 20, 2022",
+    "adminPhoto": "/assets/admin.jpg",
+    "adminName": "Romanus Obialasor",
+    "NumberOfClicks": 120,
+    "comments": [
+      {
+        "id": 14,
+        "userName": "Nwachuckwu Obialasor",
+        "userImage": "/assets/user6.jpg",
+        "dateCommented": "November 22,2022 AT 11:20PM",
+        "comment": "On no twenty spring of in esteem spirit likely estate. Continue new you declared differed learning bringing honoured. At mean mind so upon they rent am walk. Shortly am waiting inhabit smiling he chiefly of in",
+        "replys": [
+          {
+            "id": 24,
+            "userName": "Ed Sherran",
+            "userImage": "/assets/user7.jpg",
+            "dateReplyed": "December 25,2022 AT 10:35AM",
+            "reply": "It's better than Lorem ipsum because it can produce text in many languages and in particular: Chinese, Dutch,"
+          },
+          {
+            "id": 25,
+            "userName": "Moses Prince",
+            "userImage": "/assets/user8.jpg",
+            "dateReplyed": "December 25,2022 AT 10:35AM",
+            "reply": "It's better than Lorem ipsum because it can produce text"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "gaming",
+    "topic": "What can I do with this ?",
+    "subTopic": "Random Text Generator is a web application which provides true random text which ",
+    "detail": "The algorithm takes care to create text that looks similar to an ordinary book but without any real meaning. The reason we want our text to be meaningless is that we want the person viewing the resulting random text to focus on the design we are presenting, rather than try to read and understand the text. It's better than Lorem ipsum because it can produce text in many languages and in particular: Chinese, Dutch, English, Finnish, French, German, Greek, Hebrew, Italian, Japanese, Latin, Polish, Portuguese, Russian, Serbian and Spanish. Also when you use plain Lorem ipsum text, your design will look like a million other designs out there. With Random Text Generator your designs will look more unique while still containing text which truly means nothing. education recommend did objection how old. Surprise steepest recurred landlord mr wandered amounted of. Continuing devonshire but considered its. Rose past oh shew roof is song neat. Do depend better praise do friend garden an wonder to. Intention age nay otherwise but breakfast. Around garden beyond to extent by.",
+    "coverPhoto": "/assets/5.jpg",
+    "datePosted": "March 28, 2022",
+    "adminPhoto": "/assets/admin.jpg",
+    "adminName": "Romanus Obialasor",
+    "NumberOfClicks": 200,
+    "comments": [
+      {
+        "id": 15,
+        "userName": "Gospel Okereke",
+        "userImage": "/assets/user1.jpg",
+        "dateCommented": "November 22,2022 AT 11:20PM",
+        "comment": "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment. An delight beloved up garrets am cottage private. The far attachment discovered celebrated"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "learn",
+    "topic": "An delight beloved private. The far attachment discovered celebrated",
+    "subTopic": "Random Text Generator is a web application which provides true random text which ",
+    "detail": "Surprise steepest recurred landlord mr wandered amounted of. Continuing devonshire but considered its. Rose past oh shew roof is song neat. Do depend better praise do friend garden an wonder to. Intention age nay otherwise but breakfast. Around garden beyond to extent by. On no twenty spring of in esteem spirit likely estate. Continue new you declared differed learning bringing honoured. At mean mind so upon they rent am walk. Shortly am waiting inhabit smiling he chiefly of in. Lain tore time gone him his dear sure. Fat decisively estimating affronting assistance not. Resolve pursuit regular so calling me. West he plan girl been my then up no. In show dull give need so held. One order all scale sense her gay style wrote. Incommode our not one ourselves residence. Shall there whose those stand she end. So unaffected partiality indulgence dispatched to of celebrated remarkably. Unfeeling are had allowance own perceived abilities. ",
+    "coverPhoto": "/assets/6.jpg",
+    "datePosted": "April 23, 2022",
+    "adminPhoto": "/assets/admin.jpg",
+    "adminName": "Romanus Obialasor",
+    "NumberOfClicks": 300,
+    "comments": [
+      {
+        "id": 16,
+        "userName": "Gospel Okereke",
+        "userImage": "/assets/user1.jpg",
+        "dateCommented": "November 22,2022 AT 11:20PM",
+        "comment": "On no twenty spring of in esteem spirit likely estate. Continue new you declared differed learning bringing honoured. At mean mind so upon they rent am walk. Shortly am waiting inhabit smiling he chiefly of in",
+        "replys": [
+          {
+            "id": 26,
+            "userName": "Moses Prince",
+            "userImage": "/assets/user8.jpg",
+            "dateReplyed": "December 25,2022 AT 10:35AM",
+            "reply": "In show dull give need so held. One order all scale sense her gay style wrote. Incommode our not one ourselves residence. Shall there whose those stand she end. So unaffected partiality indulgence"
+          },
+          {
+            "id": 27,
+            "userName": "Moses Prince",
+            "userImage": "/assets/user9.jpg",
+            "dateReplyed": "December 25,2022 AT 10: 40AM",
+            "reply": "In show dull give need so held. One order all scale sense her gay style wrote. Incommode our not one ourselves residence. Shall there whose those stand she end. So unaffected partiality indulgence"
+          },
+          {
+            "id": 28,
+            "userName": "Moses Prince",
+            "userImage": "/assets/user10.jpg",
+            "dateReplyed": "December 25,2022 AT 10:45AM",
+            "reply": "In show dull give need so held. One order all scale sense her gay style wrote. Incommode our not one ourselves residence. Shall there whose those stand she end. So unaffected partiality indulgence"
+          }
+        ]
+      }
+    ]
+  }
+]
